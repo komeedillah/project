@@ -393,27 +393,17 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png" group-title="HIBURAN", GTV+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="HIBURAN", RCTI+
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png" group-title="HIBURAN", INEWS+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-inews.rctiplus.id/inews-sdi.mpd
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="HIBURAN", MNC TV+
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="HIBURAN", MNC TV+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="HIBURAN", GTV+
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="HIBURAN", RCTI+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="HIBURAN", INEWS+
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 ==================================================================================================
 =========================================== SPORTS ASIA ===========================================
