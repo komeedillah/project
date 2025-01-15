@@ -646,9 +646,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/9
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SPORTS ASIA", ASTRO GRANDSTAND
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="SPORTS ASIA",ASTRO FOOTBALL
-http://31.42.187.37:25461/watchpad13158/1234/111
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22
