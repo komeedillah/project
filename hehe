@@ -525,9 +525,6 @@ http://rr3.dens.tv/s/s107/index.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR SD
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR HD
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
@@ -536,9 +533,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="SPORTS ASIA",LIVE SPORTS RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="SPORTS ASIA",LIVE SPORTS GTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
 
 ---------------------------------------------------------------
 
@@ -595,12 +589,16 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTINF:-1  tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-thairath.png" group-title="SPORTS ASIA",THAIRATH 32 AUTO
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="SPORTS ASIA",PPTV 36 AUTO
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
 #EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://media-mvtv-app.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",THAIRATH 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="SPORTS ASIA",PPTV 36
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="SPORTS ASIA" tvg-logo="https://media-mvtv-app.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png",PPTV 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 
 ---------------------------------------------------------------
 
