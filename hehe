@@ -688,13 +688,6 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SPORTS ASIA", ASTRO GRANDSTAND
 #http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA 1
-http://31.42.187.37:25461/watchpad13158/1234/18
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA 2
-http://31.42.187.37:25461/watchpad13158/1234/4096
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA 3
-http://31.42.187.37:25461/watchpad13158/1234/8956
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="SPORTS ASIA",ASTRO ARENA BOLA
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/B%E2%97%8B%C2%A3%401.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp3.m3u8
