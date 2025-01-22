@@ -1174,6 +1174,24 @@ https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
 
+---------------------------------------------------------------
+
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="SPORTS",M+ LA LIGA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+#EXTVLCOPT:network-caching=1000
+https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
+
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="SS.La.Liga.ke" tvg-logo="https://logo.iptveditor.com/mlaliga.png" group-title="SPORTS",M+ VAMOS
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+#EXTVLCOPT:network-caching=1000
+https://xyzdddd.mizhls.ru/lb/premium521/index.m3u8
+
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://logo.iptveditor.com/lcampeones.png" group-title="SPORTS",M+ LIGA DE CAMPEONES
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
 
 ---------------------------------------------------------------
 
