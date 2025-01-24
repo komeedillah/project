@@ -791,6 +791,17 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 5 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
 
+---------------------------------------------------------------
+
+#EXTINF:1, group-title="SPORTS ASIA",PERSIANA SPORTS
+https://stream.live12.ir/hls2/persiana.m3u8
+
+#EXTINF:1,#EXTINF:1, group-title="SPORTS ASIA",STAR SPORTS SELECT 1
+http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=416134&extension=ts
+
+#EXTINF:1,#EXTINF:1, group-title="SPORTS ASIA",STAR SPORTS SELECT 2
+http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=487340&extension=ts
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 ==============================================================================================
@@ -1300,7 +1311,41 @@ https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium415/index.m3u8
 
+---------------------------------------------------------------
 
+#EXTINF:1, group-title="SPORTS",ESPN DUTCH
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436221
 
+#EXTINF:1, group-title="SPORTS",ESPN DUTCH 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436222
+
+#EXTINF:1, group-title="SPORTS",ESPN DUTCH 3
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436223
+
+#EXTINF:1, group-title="SPORTS",ESPN DUTCH 4
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436224
+
+#EXTINF:1, group-title="SPORTS",OPTUS SPORT LIVE
+http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=306274&extension=ts&play_token=drFgrsHh3i
+
+---------------------------------------------------------------
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 1
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=10517&extension=ts
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 2
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272467&extension=ts&play_token=nuReC2ZL6I
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 3
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272465&extension=ts&play_token=0PfpaowA4X
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 4
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272464&extension=ts&play_token=dsGU9AgeWk
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 5
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272463&extension=ts&play_token=IQmkT9fqSJ
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 6
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272462&extension=ts&play_token=gJ9dahwarP
 
 
