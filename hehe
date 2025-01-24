@@ -1306,7 +1306,7 @@ http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272463&ext
 #EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 6
 http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272462&extension=ts&play_token=gJ9dahwarP
 
-------------------------------------
+---------------------------------------------------------------
 
 #EXTINF:-1, group-title="SPORTS",BEIN SPORTS MENA 1
 http://45.139.122.148:8000/play/a004
