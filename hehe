@@ -314,6 +314,16 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
+#EXTINF:-1 tvg-id="Eat &amp; Go" tvg-logo="https://i.ibb.co/SrKxYQx/eatgo.png" group-title="HIBURAN", EAT & GO
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",SERU CHANNEL
+#https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3zB0gVk/madinahlive.png" group-title="HIBURAN", LIVE MADINAH
@@ -375,15 +385,8 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="Eat &amp; Go" tvg-logo="https://i.ibb.co/SrKxYQx/eatgo.png" group-title="HIBURAN", EAT & GO
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
-
-#EXTINF:-1 group-title="HIBURAN" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",SERU CHANNEL
-#https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="HIBURAN",SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
 
 ---------------------------------------------------------------
 
