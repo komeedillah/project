@@ -663,10 +663,6 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10", CCTV 5
 http://202.62.56.28:8080/nl.m3u8?id=1066
 
