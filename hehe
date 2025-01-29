@@ -319,10 +319,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",SERU CHANNEL
-#https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
 ---------------------------------------------------------------
 
@@ -675,7 +675,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-#https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10", CCTV 5
 http://202.62.56.28:8080/nl.m3u8?id=1066
@@ -953,7 +953,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",TELEDEPORTE
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS", RTV SPORT SAN MARINO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS", RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="SPORTS", SPORT1+ DEUTSCHLAND
