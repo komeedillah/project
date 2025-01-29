@@ -339,6 +339,9 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="HIBURAN",JITV JOGJAKARTA
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="HIBURAN",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
 #EXTINF:-1 group-title="HIBURAN" tvg-id="madutv.id" tvg-logo="https://iptv.urfan.web.id/logo/madutv.png",MADU TV TULUNGAGUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://re1.siar.us/madutv/hd720/playlist.m3u8
