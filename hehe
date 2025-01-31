@@ -784,10 +784,16 @@ http://myserver.myphuket.net:25461/test2/test2/28
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 4 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 5 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
+
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 4
+http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191782&extension=ts&play_token=zNZrh1rFjn
+
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 5
+http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191780&extension=ts&play_token=ISMImj1EzG
 
 ==============================================================================================
 =========================================== SPORTS ===========================================
