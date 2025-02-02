@@ -1152,6 +1152,20 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/rcTbnmp/20250126-223600.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="SPORTS", DAZN SPAIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/rcTbnmp/20250126-223600.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="SPORTS", DAZN SPAIN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
 #EXTINF:-1 tvg-id="DAZN LaLiga.uk" tvg-logo="https://iili.io/HSJOygf.png" group-title="SPORTS",DAZN LA LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1349,9 +1363,6 @@ http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=518691&ex
 
 #EXTINF:1, group-title="SPORTS",VSPORT PREMIUM
 http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=519431&extension=ts&play_token=lBVkXAOQXA
-
-#EXTINF:1, group-title="SPORTS",OPTUS SPORT LIVE
-http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=306274&extension=ts&play_token=drFgrsHh3i
 
 ---------------------------------------------------------------
 
