@@ -1253,17 +1253,14 @@ https://xyzdddd.mizhls.ru/lb/premium415/index.m3u8
 
 ---------------------------------------------------------------
 
-#EXTINF:1, group-title="SPORTS",ESPN DUTCH
-http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436221
+#EXTINF:1, group-title="SPORTS ",VSPORT
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=518692&extension=ts&play_token=KnuOfNmDjD
 
-#EXTINF:1, group-title="SPORTS",ESPN DUTCH 2
-http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436222
+#EXTINF:1, group-title="SPORTS",VSPORT EXTRA
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=518691&extension=ts&play_token=kt2imQxt8I
 
-#EXTINF:1, group-title="SPORTS",ESPN DUTCH 3
-http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436223
-
-#EXTINF:1, group-title="SPORTS",ESPN DUTCH 4
-http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/436224
+#EXTINF:1, group-title="SPORTS",VSPORT PREMIUM
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=519431&extension=ts&play_token=lBVkXAOQXA
 
 #EXTINF:1, group-title="SPORTS",OPTUS SPORT LIVE
 http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=306274&extension=ts&play_token=drFgrsHh3i
