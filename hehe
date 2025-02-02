@@ -1006,12 +1006,6 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS", RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="SPORTS", SPORT1+ DEUTSCHLAND
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="SPORTS", SETANTA SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1234,10 +1228,6 @@ https://xyzdddd.mizhls.ru/lb/premium586/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/50/5d/82/505d8269cccaea452c2a5a986dce4ed6.jpg" group-title="SPORTS",SUPERSPORT PSL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cb/41/71/cb417199ac7177733b32ac7fa917db73.jpg" group-title="SPORTS",SUPERSPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
