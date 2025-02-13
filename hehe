@@ -566,13 +566,13 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV" group-title="SPORTS ASIA"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
+#EXTINF:-1 tvg-id="SPOTV" group-title="SPORTS ASIA"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV INDONESIA
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2" group-title="SPORTS ASIA"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
+#EXTINF:-1 tvg-id="SPOTV2" group-title="SPORTS ASIA"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 INDONESIA
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ---------------------------------------------------------------
@@ -770,6 +770,17 @@ http://103.255.250.202:5002/bs12.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowow_live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png", WOWOW LIVE
 http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549ded7f1e6b22848c572433dd9596740&gid=bs12&channel=zhongying
+
+#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="SPORTS ASIA", SBS SPORTS
+http://iptv12k.com:35461/654321/123456/3207
+
+#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV KOREA
+http://iptv12k.com:35461/654321/123456/3215
+
+#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV2 KOREA
+http://iptv12k.com:35461/654321/123456/3228
+
+---------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS ASIA", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
