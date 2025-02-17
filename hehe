@@ -773,48 +773,34 @@ http://myserver.myphuket.net:25461/test2/test2/29
 #EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS ASIA", BEIN SPORTS THAILAND 3
 http://myserver.myphuket.net:25461/test2/test2/50
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TPF 1 AUTO RESOLUTION
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.png" group-title="SPORTS ASIA",TRUE SPORTS 1
+http://myserver.myphuket.net:25461/test2/test2/58
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TPF 2 AUTO RESOLUTION
-https://playidtv24.vercel.app/stream/now/premier2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.png" group-title="SPORTS ASIA",TRUE SPORTS 2
+http://myserver.myphuket.net:25461/test2/test2/59
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",TPF 3 AUTO RESOLUTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://playidtv24.vercel.app/stream/now/premier3.m3u8
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",TPF 4 AUTO RESOLUTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playidtv24.vercel.app/stream/now/premier4.m3u8
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",TPF 5 AUTO RESOLUTION
-#EXTVLCOPT:http-referrer=https://7mthai.net
-#https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
-https://playidtv24.vercel.app/stream/now/premier5.m3u8
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER LEAGUE 1
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER FOOTBALL 1
 http://202.62.56.28:8080/nl.m3u8?id=1061
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/EGgbpmt.png", TRUE PREMIER LEAGUE 2
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/EGgbpmt.png", TRUE PREMIER FOOTBALL 2
 http://202.62.56.28:8080/nl.m3u8?id=1065
 
-#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 3
+#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 3
 http://myserver.myphuket.net:25461/test2/test2/28
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 3 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3 
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 4 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 4 
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER LEAGUE 5 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 5 
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
 
-#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 4
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 4
 http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191782&extension=ts&play_token=zNZrh1rFjn
 
-#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 5
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 5
 http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191780&extension=ts&play_token=ISMImj1EzG
 
 ---------------------------------------------------------------
