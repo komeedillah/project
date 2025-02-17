@@ -773,10 +773,10 @@ http://myserver.myphuket.net:25461/test2/test2/29
 #EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS ASIA", BEIN SPORTS THAILAND 3
 http://myserver.myphuket.net:25461/test2/test2/50
 
-#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.png" group-title="SPORTS ASIA",TRUE SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.png" group-title="SPORTS ASIA",TRUESPORTS 1
 http://myserver.myphuket.net:25461/test2/test2/58
 
-#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.png" group-title="SPORTS ASIA",TRUE SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.png" group-title="SPORTS ASIA",TRUESPORTS 2
 http://myserver.myphuket.net:25461/test2/test2/59
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER FOOTBALL 1
