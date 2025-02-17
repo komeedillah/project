@@ -1149,46 +1149,23 @@ http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=519431&ex
 
 ---------------------------------------------------------------
 
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 1
-#http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=10517&extension=ts
-
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 2
-http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272467&extension=ts&play_token=nuReC2ZL6I
-
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 3
-http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272465&extension=ts&play_token=0PfpaowA4X
-
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 4
-http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272464&extension=ts&play_token=dsGU9AgeWk
-
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 5
-http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272463&extension=ts&play_token=IQmkT9fqSJ
-
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 6
-http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=272462&extension=ts&play_token=gJ9dahwarP
-
----------------------------------------------------------------
-
 #EXTINF:-1, group-title="SPORTS",BEIN SPORTS MENA 1
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 2
-#http://45.139.122.148:8000/play/a005
+http://45.139.122.148:8000/play/a005
 
-#EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 3
-#http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 3
-#http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 3
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272465&extension=ts&play_token=0PfpaowA4X
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 4
-#http://45.139.122.148:8000/play/a007
+http://45.139.122.148:8000/play/a007
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 5
-#http://45.139.122.148:8000/play/a008
+http://45.139.122.148:8000/play/a008
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 6
-#http://45.139.122.148:8000/play/a009
+http://45.139.122.148:8000/play/a009
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 7
 http://45.139.122.148:8000/play/a00a
@@ -1198,3 +1175,9 @@ http://45.139.122.148:8000/play/a00b
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 9
 http://45.139.122.148:8000/play/a00c
+
+---------------------------------------------------------------
+
+#EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 3
+#http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+
