@@ -249,7 +249,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="HIBURAN" group-logo="" tvg-logo="https://i.imgur.com/hOsqvLV.png", TRANS TV DETIK.COM
+#EXTINF:-1 group-title="HIBURAN" group-logo="https://i.imgur.com/rGrevBC.jpeg" tvg-logo="https://i.imgur.com/hOsqvLV.png", TRANS TV DETIK.COM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
