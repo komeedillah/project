@@ -564,7 +564,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="SPORTS ASIA",LIVE SPORTS RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="SPORTS",LIVE SPORTS TRANS 7
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="SPORTS ASIA",LIVE SPORTS TRANS 7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV 
