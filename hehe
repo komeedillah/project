@@ -751,10 +751,10 @@ http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549de
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="SPORTS ASIA", SBS SPORTS
 http://iptv12k.com:35461/654321/123456/3207
 
-#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPO TV KOREA
+#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV KOREA
 http://iptv12k.com:35461/654321/123456/3215
 
-#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPO TV2 KOREA
+#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV2 KOREA
 http://iptv12k.com:35461/654321/123456/3228
 
 ---------------------------------------------------------------
