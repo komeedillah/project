@@ -249,15 +249,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="HIBURAN" group-logo="https://i.imgur.com/rGrevBC.jpeg" tvg-logo="https://i.imgur.com/Tw15BHc.png", TRANS 7 DETIK.COM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
----------------------------------------------------------------
-
 #EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png" group-title="HIBURAN", DUNIA ANAK
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -281,6 +272,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tqDmiWv.jpeg" group-title="HIBURAN", FUN PLANET
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAX STREAM
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="HIBURAN", HOREE!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
