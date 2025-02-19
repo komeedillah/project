@@ -1002,8 +1002,8 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1,  group-title="SPORTS", CBS SPORTS
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,  group-title="SPORTS", SPORTDIGITAL SCOOORE
+https://jmp2.uk/sam-ATBD26000124P.m3u8
 
 ---------------------------------------------------------------
 
