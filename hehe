@@ -740,6 +740,12 @@ http://202.62.56.28:8080/nl.m3u8?id=1066
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", CCTV 5+
 http://202.62.56.28:8080/nl.m3u8?id=1064
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS ASIA", TEN SPORTS
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1,  group-title="SPORTS ASIA", SOLH SPORTS
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowow_cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW CINEMA
@@ -759,17 +765,6 @@ http://iptv12k.com:35461/654321/123456/3215
 
 #EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", KOREA SPOTV2
 http://iptv12k.com:35461/654321/123456/3228
-
----------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS ASIA", TEN SPORTS
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1,  group-title="SPORTS ASIA", SOLH SPORTS
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS ASIA", PTV SPORTS
-#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 ---------------------------------------------------------------
 
