@@ -841,6 +841,30 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
 https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS ASIA",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6299&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/2IvhrwS5Zzhgl_wBzcVFdCyxqNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031950/472259.jpg" group-title="SPORTS ASIA",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17875&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS ASIA",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6317&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
