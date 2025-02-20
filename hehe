@@ -1145,8 +1145,13 @@ http://45.139.122.148:8000/play/a004
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 2
 http://45.139.122.148:8000/play/a005
 
-#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 3
-http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272465&extension=ts&play_token=0PfpaowA4X
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 AR" tvg-logo="https://i.imgur.com/9DgqsdL.png" group-title="SPORTS",beIN SPORTS MENA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 4
 http://45.139.122.148:8000/play/a007
@@ -1167,6 +1172,9 @@ http://45.139.122.148:8000/play/a00b
 http://45.139.122.148:8000/play/a00c
 
 ---------------------------------------------------------------
+
+#EXTINF:1, group-title="SPORTS",BEIN SPORTS MENA 3
+#http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=272465&extension=ts&play_token=0PfpaowA4X
 
 #EXTINF:-1,  group-title="SPORTS",BEIN SPORTS MENA 3
 #http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
