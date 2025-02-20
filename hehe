@@ -593,6 +593,14 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="SPORTS ASIA",LIVE SPORTS TRANS 7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
+
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV 
 #https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
 
@@ -872,14 +880,6 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6299&type=drm
 https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/2IvhrwS5Zzhgl_wBzcVFdCyxqNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031950/472259.jpg" group-title="SPORTS ASIA",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17875&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS ASIA",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
