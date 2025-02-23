@@ -1165,12 +1165,6 @@ http://45.139.122.148:8000/play/a00c
 
 ---------------------------------------------------------------
 
-#EXTINF:-1,  group-title="SPORTS",LIVE OPTUS SPORT
-http://c.proserver.in:8080/wrXPmyab67D/hHnDqaKBGy8/190641
-
-#EXTINF:-1,  group-title="SPORTS", SKY SPORTS FOOTBALL
-http://myserver.myphuket.net:25461/test2/test2/66
-
 #EXTINF:-1,  group-title="SPORTS", SPORT5 ISRAEL
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
