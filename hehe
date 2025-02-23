@@ -342,18 +342,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
-#EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="",LIVE MAKKAH
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
-
-#EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="",LIVE MADINAH
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcb8abc387174813b6a73d045a6850ec:f2064430890f44181aa58011ff73fa9c
-https://atemeshield1-voe.sysln.id/live/eds/SunnahTV/mpd/SunnahTV.mpd
-
 #EXTINF:-1 group-title="HIBURAN" tvg-name="TV Anak" tvg-country="ID" tvg-logo="",NICKELODEON
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -389,6 +377,24 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+#EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="",LIVE MAKKAH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+#https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
+#EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="",LIVE MADINAH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcb8abc387174813b6a73d045a6850ec:f2064430890f44181aa58011ff73fa9c
+#https://atemeshield1-voe.sysln.id/live/eds/SunnahTV/mpd/SunnahTV.mpd
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="HIBURAN",AL QUR'AN AL KAREEM (MAKKAH)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="HIBURAN",AL SUNNAH AL NABAWIYAH (MADINAH)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
 ---------------------------------------------------------------
 
