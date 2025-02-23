@@ -911,6 +911,26 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6317&type=drm
 https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
+---------------------------------------------------------------
+
+#EXTINF:-1,  group-title="SPORTS ASIA",SONY SPORTS TEN 1
+https://alraqi-tv.com/id/Sony1-Sports/index.mpd
+
+#EXTINF:-1,  group-title="SPORTS ASIA",SONY SPORTS TEN 2
+https://alraqi-tv.com/id/Sony2-Sports/index.mpd
+
+#EXTINF:-1,  group-title="SPORTS ASIA",SONY SPORTS TEN 3
+https://alraqi-tv.com/id/Sony3-Sports/index.mpd
+
+#EXTINF:-1,  group-title="SPORTS ASIA",SONY SPORTS TEN 5
+https://alraqi-tv.com/id/Sony5-Sports/index.mpd
+
+#EXTINF:-1,  group-title="SPORTS ASIA",STAR SPORTS SELECT 1
+https://alraqi-tv.com/id/Star1-Select/index.mpd
+
+#EXTINF:-1,  group-title="SPORTS ASIA",STAR SPORTS SELECT 2
+https://alraqi-tv.com/id/Star2-Select/index.mpd
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
