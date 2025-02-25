@@ -568,6 +568,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 
 ---------------------------------------------------------------
 
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW CINEMA
+http://103.255.250.202:5002/bs07.m3u8?token=8c694f750b902e6f538cf207e6505710c633a15fe0ecfcfb0074494967f9ae8d&gid=bs06&channel=zhongying
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_prime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW PRIME
+http://103.255.250.202:5002/bs12.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs05&channel=zhongying
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png", WOWOW LIVE
+http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549ded7f1e6b22848c572433dd9596740&gid=bs12&channel=zhongying
+
+---------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="HIBURAN",PPTV 36
 #http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
@@ -825,15 +836,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
 ---------------------------------------------------------------
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowow_cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW CINEMA
-http://103.255.250.202:5002/bs07.m3u8?token=8c694f750b902e6f538cf207e6505710c633a15fe0ecfcfb0074494967f9ae8d&gid=bs06&channel=zhongying
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowow_prime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW PRIME
-http://103.255.250.202:5002/bs12.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs05&channel=zhongying
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowow_live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png", WOWOW LIVE
-http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549ded7f1e6b22848c572433dd9596740&gid=bs12&channel=zhongying
 
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="SPORTS ASIA", SBS SPORTS
 http://iptv12k.com:35461/654321/123456/3207
