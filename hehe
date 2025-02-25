@@ -845,13 +845,10 @@ http://myserver.myphuket.net:25461/test2/test2/58
 http://myserver.myphuket.net:25461/test2/test2/59
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER FOOTBALL 1
-http://202.62.56.28:8080/nl.m3u8?id=1061
+#http://202.62.56.28:8080/nl.m3u8?id=1061
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/EGgbpmt.png", TRUE PREMIER FOOTBALL 2
-http://202.62.56.28:8080/nl.m3u8?id=1065
-
-#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 3
-http://myserver.myphuket.net:25461/test2/test2/28
+#http://202.62.56.28:8080/nl.m3u8?id=1065
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3 
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
@@ -861,6 +858,15 @@ http://myserver.myphuket.net:25461/test2/test2/28
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 5 
 #http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
+
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 1
+http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191792&extension=ts&play_token=7iTvfpQXEc
+
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER LEAGUE 2
+http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191788&extension=ts&play_token=tUxinXRn2D
+
+#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 3
+http://myserver.myphuket.net:25461/test2/test2/28
 
 #EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 4
 http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191782&extension=ts&play_token=zNZrh1rFjn
