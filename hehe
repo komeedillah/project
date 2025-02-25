@@ -504,6 +504,20 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-thairath.png" group-title="HIBURAN",THAIRATH 32
+#http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="HIBURAN",PPTV 36
+#http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="HIBURAN" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png", PPTV 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="HIBURAN" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png", THAIRATH 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="HIBURAN", RCTI+
@@ -525,6 +539,17 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+---------------------------------------------------------------
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="HIBURAN",SCTV DIGITAL
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="HIBURAN",RCTI DIGITAL
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="HIBURAN",TRANS 7 DIGITAL
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 
 ---------------------------------------------------------------
 
@@ -637,18 +662,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="SPORTS ASIA",LIVE SPORTS RCTI
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="SPORTS ASIA",LIVE SPORTS TRANS 7
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV 
-#https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -701,14 +714,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 ---------------------------------------------------------------
 
-#EXTINF:-1  tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-thairath.png" group-title="SPORTS ASIA",THAIRATH 32
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="SPORTS ASIA",PPTV 36
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-
----------------------------------------------------------------
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_CNC_TV.png" group-title="SPORTS ASIA",CNC
 http://202.62.56.28:8080/nl.m3u8?id=1086
@@ -758,6 +763,14 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+#EXTINF:-1 tvg-id="TAPSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="SPORTS ASIA", TAP SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS ASIA",ABU DHABI SPORTS PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
