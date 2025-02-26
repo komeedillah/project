@@ -573,12 +573,6 @@ http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549de
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="HIBURAN",PPTV 36
-#http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-thairath.png" group-title="HIBURAN",THAIRATH 32
-#http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="HIBURAN" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png", PPTV 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
