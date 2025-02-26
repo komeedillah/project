@@ -814,6 +814,10 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,  group-title="SPORTS ASIA", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1 cuid="1045" tvg-chno="1045" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="SPORTS ASIA",TURKMEN SPORT
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="SPORTS ASIA", SBS SPORTS
@@ -1050,10 +1054,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1,  group-title="SPORTS", TELEMUNDO
 #https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
-#EXTINF:-1 cuid="1024" tvg-chno="1024" tvg-name="TUDN" tvg-id="TUDN.us" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="SPORTS",TUDN
-http://tkosportz.live:25461//live/swilder2023/6063815781/99415.ts
-#EXTINF:-1 cuid="1024" tvg-chno="1024" tvg-name="TUDN" tvg-id="TUDN.us" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="SPORTS",TUDN
-#http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/9606.ts
+#EXTINF:-1 cuid="1079" tvg-chno="1079" tvg-name="CBS Golazo Network 🇺🇸" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORTS",CBS GOLAZO NETWORK
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 ---------------------------------------------------------------
 
