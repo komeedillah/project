@@ -723,6 +723,24 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 ---------------------------------------------------------------
 
+#EXTINF:-1 group-title="SPORTS ASIA",IRIB VARZESH
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS ASIA",IRIB TWSPORT LIVE
+https://ncdn.telewebion.com/twsport/live/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS ASIA",IRIB TWSPORT LIVE 2
+https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS ASIA",IRIB TWSPORT LIVE 3
+https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS ASIA",OMAN SPORTS
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS ASIA",SHARJAH SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+---------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="Onesports.ph" tvg-logo="https://iili.io/JyikDNV.png" group-title="SPORTS ASIA",ONE SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
