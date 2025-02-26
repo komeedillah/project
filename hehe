@@ -726,11 +726,11 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTINF:-1 group-title="SPORTS ASIA",IRIB VARZESH
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE
+#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT
 https://ncdn.telewebion.com/twsport/live/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE 2
+#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT 2
 https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE 3
+#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT 3
 https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS ASIA",OMAN SPORTS
