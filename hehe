@@ -776,9 +776,6 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #EXTINF:-1, group-title="SPORTS ASIA",PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1,  group-title="SPORTS ASIA",IRIB VARZESH
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",SUKAN RTM
@@ -1292,6 +1289,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f7e3f9dff38e00082a5
 
 #EXTINF:-1,  group-title="SPORTS",SPORTDIGITAL FUSSBALL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
+
+#EXTINF:-1,  group-title="SPORTS",SKY SPORT CALCIO
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/105860
 
 ---------------------------------------------------------------
 
