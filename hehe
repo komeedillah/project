@@ -857,10 +857,10 @@ http://iptv12k.com:35461/654321/123456/3207
 #EXTINF:-1 tvg-name="KR: MBCìŠ¤í¬ì¸  KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="SPORTS ASIA",MBC SPORTS+
 http://iptv12k.com:35461/654321/123456/3219
 
-#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV KOREA
+#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPO TV KOREA
 http://iptv12k.com:35461/654321/123456/3215
 
-#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPOTV2 KOREA
+#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", SPO TV2 KOREA
 http://iptv12k.com:35461/654321/123456/3228
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1280px-KBS_N_Sports.svg.png" group-title="SPORTS ASIA", KBSN SPORTS
