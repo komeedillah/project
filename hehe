@@ -1230,7 +1230,7 @@ https://jmp2.uk/sam-FRBC4200005X2.m3u8
 #EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="SPORTS",4SPORTS
 https://hls.pokertvfa.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="SPORTS" , BEIN SPORTS XTRA USA
+#EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="SPORTS" , BEIN SPORTS XTRA
 https://jmp2.uk/sam-USAJ4300001Q7.m3u8
 
 #EXTINF:-1 cuid="1087" tvg-chno="1087" tvg-name="DFB Play TV 🇬🇧🇪🇸" tvg-id="GB26000118T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20241017T132811SQUARE.png" group-title="SPORTS",DFB PLAY TV
