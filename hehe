@@ -980,6 +980,9 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
 ---------------------------------------------------------------
 
+#EXTINF:-1,  group-title="SPORTS ASIA",HT SPOR
+https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+
 #EXTINF:-1 group-title="SPORTS ASIA",KUWAIT SPORTS
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
