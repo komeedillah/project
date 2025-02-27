@@ -978,6 +978,26 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6317&type=drm
 https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
+---------------------------------------------------------------
+
+#EXTINF:-1 group-title="SPORTS ASIA",KUWAIT SPORTS
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS ASIA",KUWAIT SPORTS EXTRA
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="SPORTS ASIA", NOW SPORTS PREMIER LEAGUE 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="SPORTS ASIA", NOW SPORTS PREMIER LEAGUE 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 英超3台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超3台.png" group-title="SPORTS ASIA", NOW SPORTS PREMIER LEAGUE 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超4台.png" group-title="SPORTS ASIA", NOW SPORTS PREMIER LEAGUE 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
