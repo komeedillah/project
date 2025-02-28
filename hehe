@@ -888,6 +888,12 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=olivetv_540&sid=MXGjCU065h3UlM6qcgVQ9OaXWxF80UJIAfGAc9va&secret=81146d27cc8183448e04eb56aa7ab66a&time=1737592877
 
+#EXTINF:-1 tvg-id="SkySports.kr" tvg-name="SkySports.kr" tvg-logo="https://i.imgur.com/tdmsXvp.png" group-title="SPORTS ASIA", SKY SPORTS KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-referrer=https://kakotv.com
+https://live-114.myjktv.com/watch/live.m3u8?video=sky_sports_540&sid=zzCnNqiGMjgVWYeL4JSf9pwNVLfUL1oWHrLScuET&secret=f7e4d474e415c7e7234add14ce734cc6&time=1737445569
+
 ---------------------------------------------------------------
 
 #EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS ASIA", BEIN SPORTS THAILAND 1
@@ -1019,6 +1025,16 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
 
 #EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超4台.png" group-title="SPORTS ASIA", NOW SPORTS PREMIER LEAGUE 4
 https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS ASIA",ELTA SPORTS 1
+http://iptv12k.com:35461/654321/123456/14443
+
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SPORTS ASIA",ELTA SPORTS 2
+http://iptv12k.com:35461/654321/123456/14442
+
+#EXTINF:-1  tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SPORTS ASIS",ELTA SPORTS 3
+http://iptv12k.com:35461/654321/123456/14441
+#http://iptv12k.com:35461/654321/123456/21692
 
 ==============================================================================================
 =========================================== SPORTS ===========================================
@@ -1393,8 +1409,14 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 #EXTINF:-1,  group-title="SPORTS",TUDN
 http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/9606.ts
 
+#EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN CHILE
+http://45.184.87.142:8000/play/a045
+
 #EXTINF:-1,  group-title="SPORTS",HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+
+#EXTINF:-1,  group-title="SPORTS",TRT SPOR
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="SPORTS", FOX SPORTS MEXICO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
