@@ -1352,37 +1352,6 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/105860
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SELECT" tvg-logo="https://i.imgur.com/SNRydUH.png" group-title="SPORTS",ZIGGO SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-#https://ddy6new.iosplayer.ru/ddy6/premium393/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://cookiewebplay.xyz
-
-#EXTINF:-1,  group-title="SPORTS",ESPN NL
-#http://pumas.life:8080/Lea22/nVPsZ9r55x/437961
-#http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=247180&extension=ts&play_token=YZXWi2hrVo
-http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=247180&extension=ts&play_token=WbqwVxnNzf
-
-#EXTINF:-1,  group-title="SPORTS",ESPN NL 2
-http://f01.live:8080/vY1014Qs/uZPt3MFH/83691
-
-#EXTINF:-1,  group-title="SPORTS",ESPN NL 3
-http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=247179&extension=ts
-
-#EXTINF:-1,  group-title="SPORTS",ESPN NL 4
-#http://pumas.life:8080/Lea22/nVPsZ9r55x/437964o
-http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=247177&extension=ts
-
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="SPORTS",ZIGGO SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport.m3u8
-
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="SPORTS",ZIGGO SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport2.m3u8
-
 #EXTINF:-1 tvg-id="SkySports Select" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="SPORTS", SKYSPORT SELECT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
