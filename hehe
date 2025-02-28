@@ -861,6 +861,10 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,  group-title="SPORTS ASIA", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1 cuid="1045" tvg-chno="1045" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="SPORTS ASIA",TURKMEN SPORT
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="SPORTS ASIA", SBS SPORTS
