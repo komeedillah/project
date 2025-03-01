@@ -1433,9 +1433,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 
 ---------------------------------------------------------------
 
-#EXTINF:-1,  group-title="SPORTS",TUDN
-http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/9606.ts
-
 #EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN CHILE
 http://45.184.87.142:8000/play/a045
 
