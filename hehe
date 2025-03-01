@@ -853,6 +853,9 @@ http://iptv12k.com:35461/654321/123456/972
 #http://iptv12k.com:35461/654321/123456/7988
 http://iptv12k.com:35461/654321/123456/971
 
+#EXTINF:-1 tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS ASIA",ASTRO PREMIER LEAGUE
+https://zozotv.xyz:443/live/zotv744/zxy086/568.ts
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10", CCTV 5
