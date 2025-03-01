@@ -919,13 +919,25 @@ https://live-114.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=kDzPWhbsOBLWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=42RmPnIZBCBZPthgYA4Ve2DlukLZB1yF7LGk3PQP&secret=59bde1d8af48fba605462eb56041e220&time=1737592763
+#https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=42RmPnIZBCBZPthgYA4Ve2DlukLZB1yF7LGk3PQP&secret=59bde1d8af48fba605462eb56041e220&time=1737592763
 
 #EXTINF:-1 tvg-id="SPOTV PRIME+ 유료.kr" tvg-name="SPOTV PRIME+ 유료.kr" tvg-logo="https://i.imgur.com/YD3LGlK.png" group-title="SPORTS ASIA", SPOTV PRIME+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-114.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=7Z3uWdN4n8Y5icBbIE0RBX4UR3kVYqbMhHCca5Xb&secret=24322b62c305a9c38b4a9d5f66fd70e3&time=1737592472
+
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png",SPOTV PRIME2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png",SPOTV PRIME+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
 
 ---------------------------------------------------------------
 
