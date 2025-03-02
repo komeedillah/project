@@ -436,6 +436,9 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="HIBURAN",SEMARANG TV
 http://116.254.112.74/hls/cakralive.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnEQ9.png" group-title="HIBURAN",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.id/logo/tvridaerah.png",TVRI JAWA TENGAH
@@ -475,9 +478,6 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1  group-title="HIBURAN" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV 9 RTM
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="HIBURAN",ASTRO CERIA
-https://zozotv.xyz:443/live/zotv744/zxy086/31.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tFY7tC/rtbaneka.png" group-title="HIBURAN", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
