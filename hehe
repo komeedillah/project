@@ -980,6 +980,22 @@ http://iptv12k.com:35461/654321/123456/14442
 http://iptv12k.com:35461/654321/123456/14441
 #http://iptv12k.com:35461/654321/123456/21692
 
+---------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" group-title="SPORTS ASIA",SONY SPORTS TEN 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" group-title="SPORTS ASIA",SONY SPORTS TEN 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" group-title="SPORTS ASIA",SONY SPORTS TEN 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="SPORTS ASIA",SONY SPORTS TEN 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
+
+#EXTINF:-1,  group-title="SPORTS ASIA",STAR SPORTS SELECT 1
+http://119.152.240.15:8001/play/a0hj/index.m3u8
+#EXTINF:-1,  group-title="SPORTS ASIA",STAR SPORTS SELECT 2
+http://119.152.240.15:8001/play/a0hk/index.m3u8
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
