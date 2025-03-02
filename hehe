@@ -941,115 +941,14 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxl
 
 ---------------------------------------------------------------
 
-#EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS ASIA", BEIN SPORTS THAILAND 1
-http://myserver.myphuket.net:25461/test2/test2/29
-#EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS ASIA", BEIN SPORTS THAILAND 3
-http://myserver.myphuket.net:25461/test2/test2/50
-
-#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.png" group-title="SPORTS ASIA",TRUESPORTS 1
-http://myserver.myphuket.net:25461/test2/test2/58
-
-#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.png" group-title="SPORTS ASIA",TRUESPORTS 2
-http://myserver.myphuket.net:25461/test2/test2/59
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER FOOTBALL 1
-#http://202.62.56.28:8080/nl.m3u8?id=1061
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/EGgbpmt.png", TRUE PREMIER FOOTBALL 2
-#http://202.62.56.28:8080/nl.m3u8?id=1065
-
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 1
-http://myserver.myphuket.net:25461/test2/test2/26
-
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 2
-http://myserver.myphuket.net:25461/test2/test2/27
-
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3
-http://myserver.myphuket.net:25461/test2/test2/28
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3 
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 4 
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 5 
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
-
-#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 1
-#http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191792&extension=ts&play_token=7iTvfpQXEc
-
-#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 2
-#http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191788&extension=ts&play_token=tUxinXRn2D
-
-#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 3
-#http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191784&extension=ts&play_token=QCproHiLXJ
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
 
 #EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 4
 http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191782&extension=ts&play_token=zNZrh1rFjn
 
 #EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 5
 http://ts1.supports.top:8080/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191780&extension=ts&play_token=ISMImj1EzG
-
----------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="SPORTS ASIA",CHAMPIONS 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="SPORTS ASIA",CHAMPIONS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="SPORTS ASIA",CHAMPIONS 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
-
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="SPORTS ASIA",CHAMPIONS 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="SPORTS ASIA",CHAMPIONS 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS ASIA",BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6299&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/2IvhrwS5Zzhgl_wBzcVFdCyxqNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031950/472259.jpg" group-title="SPORTS ASIA",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17875&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS ASIA",BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6317&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
 ---------------------------------------------------------------
 
