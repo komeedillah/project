@@ -1026,11 +1026,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1,  group-title="SPORTS", TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1,  group-title="SPORTS", TELEMUNDO
-#https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/Y38p1RN/sport1.png" group-title="SPORTS", SPORT 1 SLOVAKIA
@@ -1326,12 +1321,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN CHILE
 http://45.184.87.142:8000/play/a045
-
-#EXTINF:-1,  group-title="SPORTS",HT SPOR
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
-
-#EXTINF:-1,  group-title="SPORTS",TRT SPOR
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="SPORTS", FOX SPORTS MEXICO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
