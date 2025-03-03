@@ -904,6 +904,12 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q
 
 ---------------------------------------------------------------
 
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 1
+http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191792&extension=ts&play_token=7iTvfpQXEc
+
+#EXTINF:1, group-title="SPORTS ASIA", TRUE PREMIER FOOTBALL 2
+http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=191788&extension=ts&play_token=tUxinXRn2D
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
 
