@@ -1115,37 +1115,40 @@ https://jmp2.uk/sam-ATBD26000124P.m3u8
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/fa/2d/bbfa2d3630d04246373d569e210eec17.jpg" group-title="SPORTS", ESPN LATINO
+#EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN PREMIUM
+http://45.184.87.142:8000/play/a045
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/fa/2d/bbfa2d3630d04246373d569e210eec17.jpg" group-title="SPORTS", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/51/0c/3b/510c3ba94a983e543cbff80a4440a387.jpg" group-title="SPORTS", ESPN LATINO 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/51/0c/3b/510c3ba94a983e543cbff80a4440a387.jpg" group-title="SPORTS", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/47/6d/35/476d355ba89c0f795155b8a3711840cf.jpg" group-title="SPORTS", ESPN LATINO 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/47/6d/35/476d355ba89c0f795155b8a3711840cf.jpg" group-title="SPORTS", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/90/41/c7/9041c751f4d833d4d6abc947cd5bdfc6.jpg" group-title="SPORTS", ESPN LATINO 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/90/41/c7/9041c751f4d833d4d6abc947cd5bdfc6.jpg" group-title="SPORTS", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/6d/94/af6d947ce83a86004675c64c2a118deb.jpg" group-title="SPORTS", ESPN LATINO 5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/6d/94/af6d947ce83a86004675c64c2a118deb.jpg" group-title="SPORTS", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/55/6d/96/556d96557d60209abe8c3b93164c2baa.jpg" group-title="SPORTS", ESPN LATINO 6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/55/6d/96/556d96557d60209abe8c3b93164c2baa.jpg" group-title="SPORTS", ESPN 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/23/2e/42/232e422495f2dd84b70fb141c543769b.jpg" group-title="SPORTS", ESPN LATINO 7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/23/2e/42/232e422495f2dd84b70fb141c543769b.jpg" group-title="SPORTS", ESPN 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
@@ -1234,6 +1237,11 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 cuid="1076" tvg-chno="1076" tvg-name="Fox Deportes 🇺🇸" tvg-id="63d0269d60bc8f000890facc" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" group-title="SPORTS",FOX DEPORTES USA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="SPORTS", FOX SPORTS MEXICO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+
 #EXTINF:-1,  group-title="SPORTS",SPORTDIGITAL FUSSBALL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
 
@@ -1283,16 +1291,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
-
----------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN CHILE
-http://45.184.87.142:8000/play/a045
-
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="SPORTS", FOX SPORTS MEXICO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
 
 ---------------------------------------------------------------
 
