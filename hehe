@@ -746,21 +746,14 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="SPORTS ASIA",IRIB VARZESH
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT
-https://ncdn.telewebion.com/twsport/live/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT 2
-https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ASIA",TWSPORT LIVE EVENT 3
-https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS ASIA",OMAN SPORTS
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS ASIA",SHARJAH SPORTS
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="SPORTS ASIA",PERSIANA SPORTS
+https://spstr.abntv.live/hls/psstream.m3u8
 
 ---------------------------------------------------------------
 
@@ -813,9 +806,6 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
-
-#EXTINF:-1, group-title="SPORTS ASIA",PERSIANA SPORTS
-https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="SPORTS ASIA",CBC SPORT
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:AB:59:CC&stream=793356&extension=ts&play_token=A6CkZuLoDv
@@ -894,23 +884,11 @@ http://iptv12k.com:35461/654321/123456/3215
 #EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="SPORTS ASIA", KR SPOTV2
 http://iptv12k.com:35461/654321/123456/3228
 
-#EXTINF:-1 tvg-id="KBS N Sports.kr" tvg-name="KBS N Sports.kr" tvg-logo="https://i.imgur.com/THFiWik.png" group-title="SPORTS ASIA", KBSN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841
-
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN SPORTS.kr" tvg-logo="https://i.imgur.com/0Nraumw.png" group-title="SPORTS ASIA", TVN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=olivetv_540&sid=MXGjCU065h3UlM6qcgVQ9OaXWxF80UJIAfGAc9va&secret=81146d27cc8183448e04eb56aa7ab66a&time=1737592877
-
-#EXTINF:-1 tvg-id="SkySports.kr" tvg-name="SkySports.kr" tvg-logo="https://i.imgur.com/tdmsXvp.png" group-title="SPORTS ASIA", SKY SPORTS KOREA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com
-https://live-114.myjktv.com/watch/live.m3u8?video=sky_sports_540&sid=zzCnNqiGMjgVWYeL4JSf9pwNVLfUL1oWHrLScuET&secret=f7e4d474e415c7e7234add14ce734cc6&time=1737445569
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
