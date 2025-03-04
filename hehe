@@ -1171,13 +1171,13 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1,  group-title="SPORTS", SPORTDIGITAL SCOOORE
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xqFWWsq/sport1bltc.png" group-title="SPORTS", SPORT 1 BALTIC
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xqFWWsq/sport1bltc.png" group-title="SPORTS", SPORT1 BALTIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xmWdBPK/sport2bltc.png" group-title="SPORTS", SPORT 2 BALTIC
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xmWdBPK/sport2bltc.png" group-title="SPORTS", SPORT2 BALTIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
