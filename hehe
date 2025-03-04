@@ -1104,6 +1104,12 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
+#EXTINF:-1  tvg-id="Sport1.lt" tvg-logo="https://i.ibb.co.com/h2bTGxV/sport1lt.png" group-title="SPORTS", SPORT1HD LITHUANIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c991c368916e42b4863434de3e1761f6:de737ed43aa92c98d4c89e32aa2408ce
+https://tr.live.cdn.cgates.lt/live/dash/560210/index.mpd
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS" ,NBC 4 
@@ -1254,6 +1260,9 @@ https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
 https://tr.live.cdn.cgates.lt/live/dash/561209/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="SPORTS" , MNB SPORT
+https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 
 ---------------------------------------------------------------
 
