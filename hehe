@@ -1171,6 +1171,18 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1,  group-title="SPORTS", SPORTDIGITAL SCOOORE
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xqFWWsq/sport1bltc.png" group-title="SPORTS", SPORT 1 BALTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
+https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/xmWdBPK/sport2bltc.png" group-title="SPORTS", SPORT 2 BALTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
+https://tr.live.cdn.cgates.lt/live/dash/561209/index.mpd
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN PREMIUM
@@ -1273,8 +1285,18 @@ https://jmp2.uk/sam-USAJ4300001Q7.m3u8
 #EXTINF:-1 cuid="1087" tvg-chno="1087" tvg-name="DFB Play TV 🇬🇧🇪🇸" tvg-id="GB26000118T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20241017T132811SQUARE.png" group-title="SPORTS",DFB PLAY TV
 https://dhernglcdl9xo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zuzm9alqe3qka/dfbtv.m3u8
 
-#EXTINF:-1 cuid="1020" tvg-chno="1020" tvg-name="Solo Calcio 🇮🇹" tvg-id="ITBC4700002CO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS",SOLOCALCIO ITALIA
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="SPORTS", ORF SPORT+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
+https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SPORTITALIA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 ---------------------------------------------------------------
 
@@ -1479,7 +1501,6 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS", TUDN
@@ -1519,6 +1540,70 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
+---------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-logo="https://i.ibb.co.com/5YXxkP9/snone.png" group-title="SPORTS", SPORTSNET ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet World HD.ca" tvg-logo="https://i.ibb.co.com/HNW9Fmp/snworld.png" group-title="SPORTS", SPORTSNET WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet 360 HD.ca" tvg-logo="https://i.ibb.co.com/5smdDgV/sn360.png" group-title="SPORTS", SPORTSNET 360
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd    
+
+#EXTINF:-1 tvg-id="Sportsnet (East) HD.ca" tvg-logo="https://i.ibb.co.com/TgSWLBz/sneast.png" group-title="SPORTS", SPORTSNET EAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet (West) HD.ca" tvg-logo="https://i.ibb.co.com/17Mb1mt/snwest.png" group-title="SPORTS", SPORTSNET WEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7503babdb1ee31999583342eb1729f26:6a07fa37f91dbaab8aadbe2307af739f
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet (Ontario) HD.ca" tvg-logo="https://i.ibb.co.com/r3yxWrR/snontario.png" group-title="SPORTS", SPORTSNET ONTARIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620814bb9cc23732994f4cdd85716b6f:b9e3a3412749e7f9fbb87b1a6b4bbcdd
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd    
+
+#EXTINF:-1 tvg-id="Sportsnet (Pacific) HD.ca" tvg-logo="https://i.ibb.co.com/2Fx3C7f/snpacific.png" group-title="SPORTS", SPORTSNET PACIFIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a565810c9cb35aca05476af10bffe05:b6759d6505a377dcec768a3ecb1cbad0
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd    
+
+---------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.ibb.co.com/XthghZr/sportv.png" group-title="SPORTS", SPORTV BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3eaafbe42347dddb691d470c96aad44:7abe5508aecc5606b1f2b64611015089
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/xdqmuwudcl/out/v1/e073926698c44c4cae9e8e7510cc5836/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORTS", SPORTV2 BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fd565afa01318927c67efcf162d0862:a74100562d8e9d9d2a9ed19f91f8e9d5
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/gxxj3snihc/out/v1/253a523ce23e4646a8af55e2ea9e365f/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORTS", SPORTV3 BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc3fe9d7b2212db44dffc59521e2ea5:2a623cac1a605a9315cf441dd67f2032
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hdjoqksgtf/out/v1/f3e3b9eeb94e4b96ad3f214603ff261b/cenc-sd.mpd
+
+#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/F0jTVwQ/premierebr.png", PREMIERE BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
 
 
 
