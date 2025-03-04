@@ -580,23 +580,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW CINEMA
-#http://103.255.250.202:5002/bs07.m3u8?token=8c694f750b902e6f538cf207e6505710c633a15fe0ecfcfb0074494967f9ae8d&gid=bs06&channel=zhongying
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW PRIME
+https://luong.utako.moe/wprime/index.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_prime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW PRIME
-#http://103.255.250.202:5002/bs12.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs05&channel=zhongying
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW CINEMA
+https://luong.utako.moe/wcinema/index.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png", WOWOW LIVE
-http://103.255.250.202:5002/bs20.m3u8?token=18cccd7f966d5b2adef6096c56151b5549ded7f1e6b22848c572433dd9596740&gid=bs12&channel=zhongying
-
-#EXTINF:-1 tvg-name="JP: WOWOWãƒ—ãƒ©ã‚¤ãƒ  JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="HIBURAN",WOWOW CINEMA
-http://iptv12k.com:35461/654321/123456/3147
-
-#EXTINF:-1 tvg-name="JP: WOWOWã‚·ãƒãƒž JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="HIBURAN",WOWOW PRIME
-http://iptv12k.com:35461/654321/123456/3148
-
-#EXTINF:-1 tvg-name="JP: WOWOWãƒ©ã‚¤ãƒ– JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="HIBURAN",WOWOW LIVE
-#http://iptv12k.com:35461/654321/123456/3149
+#EXTINF:-1 group-title="HIBURAN" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW LIVE
+https://luong.utako.moe/wlive/index.m3u8
 
 ---------------------------------------------------------------
 
