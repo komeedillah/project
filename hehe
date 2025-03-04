@@ -1030,20 +1030,6 @@ http://45.139.122.148:8000/play/a00c
 #EXTINF:-1,  group-title="SPORTS ASIA",BEIN SPORTS MENA 3
 #http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
 
----------------------------------------------------------------
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV VIDIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-http://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=204
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR VIDIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-http://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=205
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI VIDIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-http://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
-
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
