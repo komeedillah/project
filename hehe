@@ -1095,7 +1095,7 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
-#EXTINF:-1  tvg-id="Sport1.lt" tvg-logo="https://i.ibb.co.com/h2bTGxV/sport1lt.png" group-title="SPORTS", SPORT1 HD LITHUANIA
+#EXTINF:-1  tvg-id="Sport1.lt" tvg-logo="https://i.ibb.co.com/h2bTGxV/sport1lt.png" group-title="SPORTS", LITHUANIA SPORT1HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c991c368916e42b4863434de3e1761f6:de737ed43aa92c98d4c89e32aa2408ce
