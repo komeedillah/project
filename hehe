@@ -1252,9 +1252,6 @@ https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
 https://tr.live.cdn.cgates.lt/live/dash/561209/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="SPORTS" , MNB SPORT
-https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="SPORTS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN PREMIUM
