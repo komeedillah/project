@@ -451,6 +451,9 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="HIBURAN",RCTV CIREBON
 https://v10.siar.us/rctv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="HIBURAN",BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.id/logo/tvridaerah.png",TVRI JAWA TENGAH
@@ -549,6 +552,9 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="HIBURAN",MNCTV DIGITAL
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="HIBURAN",INDOSIAR DIGITAL
+http://viphomal.xyz:8080/VIP0171171267961865/0b5022b42ae0/34327
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png" group-title="HIBURAN",EAT & GO
@@ -601,6 +607,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwm9AnEd5IpB6xPoPaAIJ5Ojpwd-MuV8xab8gaGnde7rT6rBxYa8DMIrms8__V_9bjuM&usqp=CAU" group-title="HIBURAN",CTN
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",BAYON TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w1645315215.m3u8
 
 ==================================================================================================
 =========================================== SPORTS ASIA ===========================================
