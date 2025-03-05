@@ -1634,8 +1634,22 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hdjoqksg
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
+---------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="Fuckid" group-title="SPORTS" tvg-name="Canal+ France" tvg-logo="https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n" ,CANAL+ FRANCE
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrunns.iosplayer.ru/wind/premium121/mono.m3u8
 
+#EXTINF:-1 tvg-id="Fuckid" group-title="SPORTS" tvg-name="Canal+ Foot France" tvg-logo="https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n" ,CANAL+ FOOT
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrunns.iosplayer.ru/wind/premium463/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fuckid" group-title="SPORTS" tvg-name="Canal+ Sport France" tvg-logo="https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n" ,CANAL+ SPORT
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrunns.iosplayer.ru/wind/premium122/mono.m3u8
 
 
 
