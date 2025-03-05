@@ -815,35 +815,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="SPORTS ASIA",ASTRO ARENA BOLA
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/B%E2%97%8B%C2%A3%401.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="SPORTS ASIA",ASTRO ARENA BOLA 2
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/B%E2%97%8B%C2%A3%402.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="SPORTS ASIA",ASTRO GRANDSTAND
-#https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F1.m3u8
-
-#EXTINF:-1 group-title="SPORTS ASIA",ASTRO SPORTS PLUS
-http://iptv12k.com:35461/654321/123456/7981
-
-#EXTINF:-1 group-title="SPORTS ASIA",ASTRO BADMINTON
-http://iptv12k.com:35461/654321/123456/970
-
-#EXTINF:-1 group-title="SPORTS ASIA",ASTRO FOOTBALL
-#http://iptv12k.com:35461/654321/123456/7983
-http://iptv12k.com:35461/654321/123456/969
-
-#EXTINF:-1 group-title="SPORTS ASIA",ASTRO GRANDSTAND
-#http://iptv12k.com:35461/654321/123456/5221
-http://iptv12k.com:35461/654321/123456/972
-
-#EXTINF:-1 group-title="SPORTS ASIA",ASTRO PREMIER LEAGUE 2
-#http://iptv12k.com:35461/654321/123456/7988
-http://iptv12k.com:35461/654321/123456/971
-
-#EXTINF:-1 tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS ASIA",ASTRO PREMIER LEAGUE
-https://zozotv.xyz:443/live/zotv744/zxy086/568.ts
 
 ---------------------------------------------------------------
 
