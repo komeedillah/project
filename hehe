@@ -857,16 +857,6 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 tvg-id="SPL CH01.sg" group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",MEDIACORP LIVE SPL 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#EXTINF:-1 tvg-id="SPL CH02.sg" group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",MEDIACORP LIVE SPL 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10", CCTV 5
