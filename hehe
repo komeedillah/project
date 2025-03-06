@@ -448,6 +448,9 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="HIBURAN",RCTV CIREBON
 https://v10.siar.us/rctv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="HIBURAN",BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.id/logo/tvridaerah.png",TVRI JAWA TENGAH
@@ -534,8 +537,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ---------------------------------------------------------------
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="HIBURAN",INDOSIAR DIGITAL
-http://viphomal.xyz:8080/VIP0171171267961865/0b5022b42ae0/34327
+
 
 ---------------------------------------------------------------
 
