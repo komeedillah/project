@@ -100,9 +100,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",MDTV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",MDTV
-#https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
 
 
 ---------------------------------------------------------------
@@ -126,6 +123,38 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 ---------------------------------------------------------------
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBURAN",JTV
+#https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9 NUSANTARA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg" group-title="NASIONAL",JTV
+#https://cempedak-cdn-fly.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest/scale-to-width-down/268?cb=20220525022727" group-title="NASIONAL", TV9 NUSANTARA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-logo="https://iptv.urfan.web.id/logo/jtv.png",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1dpHWQq/tv9.png" group-title="NASIONAL", TV9 NUSANTARA
+#https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -138,17 +167,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
 https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-logo="https://iptv.urfan.web.id/logo/jtv.png",JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",NTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1dpHWQq/tv9.png" group-title="NASIONAL", TV9 NUSANTARA
-#https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="nusantaratv.id" tvg-logo="https://cdn.urfan.id/logo/nusantaratv.png",NTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -376,14 +394,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 #https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBURAN",JTV
-#https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
-
-#EXTINF:-1 group-title="HIBURAN"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9 NUSANTARA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
 
 
