@@ -2,6 +2,8 @@
 =========================================== NASIONAL ===========================================
 ================================================================================================
 
+
+
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -250,9 +252,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+
+
 ===============================================================================================
 =========================================== HIBURAN ===========================================
 ===============================================================================================
+
+
 
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="HIBURAN",CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -654,9 +660,13 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13
 #EXTINF:-1 group-title="HIBURAN",BAYON TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w1645315215.m3u8
 
+
+
 ==================================================================================================
 =========================================== SPORTS ASIA ===========================================
 ==================================================================================================
+
+
 
 #EXTINF:-1 tvg-id="60" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="SPORTS ASIA", FIGHT SPORTS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1122,9 +1132,13 @@ http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=9182
 #KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
 http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=9183
 
+
+
 ==============================================================================================
 =========================================== SPORTS ===========================================
 =============================================================================================
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="SPORTS", GO3 SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
