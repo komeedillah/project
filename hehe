@@ -1868,5 +1868,21 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 
 
 
+---------------------------------------------------------------
+
+
+
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 1 ENGLISH 1
+http://93.123.72.138:8000/play/a022
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 2 ENGLISH 2
+http://93.123.72.138:8000/play/a023
+
+#EXTINF:-1 group-title="SPORTS", MATCH! FOOTBALL 1
+http://mag.lifetv.az:8888/perviz/perviz/2134
+#EXTINF:-1 group-title="SPORTS", MATCH! FOOTBALL 2
+http://mag.lifetv.az:8888/perviz/perviz/2135
+#EXTINF:-1 group-title="SPORTS", MATCH! FOOTBALL 3
+http://mag.lifetv.az:8888/perviz/perviz/2136
+
 
 
