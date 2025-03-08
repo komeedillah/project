@@ -1137,8 +1137,8 @@ http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=17938
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
-http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=6686
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=17939
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="SPORTS ASIA",CHAMPIONS 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
