@@ -1866,12 +1866,6 @@ https://webhdrunns.iosplayer.ru/wind/premium122/mono.m3u8
 
 
 
-#EXTINF:-1 cuid="" tvg-chno="" tvg-name="Goltv 🇺🇸" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="SPORTS",GOL TV
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.koskoros.ru/wiki/goltv/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/X3sY7K1/blrs5int.png" group-title="SPORTS", BELARUS5 INT
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
